@@ -1,0 +1,5 @@
+Untuk akun admin menggunakan
+email : aldikakabow28@gmail.com
+password : 12345678
+
+dan ubah path pada cetak.php sesuai dengan path penyimpanan pada helper di file od_helper
